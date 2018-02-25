@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Move-ball
+//  Move
 //
-//  Created by Bárbara Souza on 25/02/2018.
+//  Created by Bárbara Souza on 21/02/18.
 //  Copyright © 2018 Bárbara Souza. All rights reserved.
 //
 
